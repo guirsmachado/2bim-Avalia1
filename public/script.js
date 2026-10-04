@@ -1,4 +1,4 @@
-const CLIENT_ID = "COLE_AQUI_O_CLIENT_ID.apps.googleusercontent.com";
+const CLIENT_ID = "345178337460-gdea3clcdspfh2cgn2799jn9cknsbltf.apps.googleusercontent.com";
 
 const formulario = document.getElementById("formulario");
 const campoNumero = document.getElementById("numero");
