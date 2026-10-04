@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Guilherme Rodrigo Senter Machado
+RA: 2026108601
+URL: https://desenho-guilherme.pages.dev
